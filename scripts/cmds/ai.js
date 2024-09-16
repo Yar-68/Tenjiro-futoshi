@@ -60,8 +60,8 @@ module.exports = {
   langs: {
     en: {
       final: "",
-      header: "💥🌹| 𝐈𝐘𝐀𝐒 𝐜𝐡𝐚𝐭𝐆𝐏𝐓                  ◆━━━━━━▣✦▣━━━━━━━◆",
-      footer: "◆▬▬▬▬▬ ❴✪❵ ▬▬▬▬▬◆  🌹𝐁𝐎𝐓 𝐨𝐟 𝐈𝐘𝐀𝐒· · • • • 🌹 • • • · ·",
+      header: "°°°°°TENJIRO°°°°°",
+      footer: "•••••GOATBOT°°°°°",
     }
   },
 
