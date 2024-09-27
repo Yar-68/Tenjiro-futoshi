@@ -60,7 +60,7 @@ module.exports = {
   langs: {
     en: {
       final: "",
-      header: "°°°°°°°GAZO°°°°°",
+      header: "°°°°°°°Chãrøne°°°°°",
       footer: "•••••GOATBOT°°°°°",
     }
   },
